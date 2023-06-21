@@ -21,10 +21,3 @@ for (let i = 0; i < bandNames.length; i++) {
 
 // Append the list to the document body or any other element
 document.body.appendChild(ul);
-
-    ulElement.appendChild(liElement);
-  });
-}
-
-// Call the function with the band names array
-sortBandNames(bandNames);
